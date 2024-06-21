@@ -1,0 +1,21 @@
+<div *ngIf="book" class="book-detail">
+  <h1>{{ book.name }}</h1>
+  <p>{{book.author?.name}}</p>
+  <p>{{ book.description }}</p>
+  <img [src]="book.pictureURL" alt="{{ book.name }} cover" class="book-cover">
+  <div class="comments-section">
+    <h2>Comments</h2>
+    <div *ngFor="let comment of comments" class="comment">
+      <p>{{ comment.comment }}</p>
+    </div>
+    
+    <div *ngIf="isLoggedIn" class="add-comment">
+      <textarea [(ngModel)]="newCommentContent" placeholder="Add your comment"></textarea>
+      <button (click)="addComment()">Submit</button>
+    </div>
+    
+    <div *ngIf="!isLoggedIn">
+      <p>Please <a routerLink="/login">log in</a> to add a comment.</p>
+    </div>
+  </div>
+</div>

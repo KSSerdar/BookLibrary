@@ -1,0 +1,10 @@
+<div class="book-list">
+  <div class="book-card" *ngFor="let book of books">
+    <a [routerLink]="['/book', book.id]">
+    <img [src]="book.pictureURL" alt="{{ book.name }} cover" class="book-cover">
+    <h2>{{ book.name }}</h2>
+    <p>Author: {{ book.author?.name || 'Unknown Author' }}</p>
+    </a>
+    <button type="button"*ngIf="isAdmin"[routerLink]="['/edit-book',book.id]">Edit Book</button>
+  </div>
+</div>

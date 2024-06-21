@@ -1,0 +1,13 @@
+
+
+<div class="login-page">
+    <div class="form">
+      
+      <form class="login-form"(ngSubmit)="onSubmit($event)">
+        <input type="email" id="email" [(ngModel)]="email" name="email" required>
+        <input type="password" id="password" [(ngModel)]="password" name="password" required>
+        <button type="submit">Login</button>
+        <p class="message">Not registered? <a href="#">Create an account</a></p>
+      </form>
+    </div>
+  </div>

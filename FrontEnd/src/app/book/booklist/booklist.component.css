@@ -1,0 +1,93 @@
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+  background-color: #333; /* Slightly darker background */
+  color: #f5f5f5; /* Light text color for contrast */
+}
+
+.book-card {
+  background-color: #444; /* Darker card background */
+  border: 1px solid #555;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 20px;
+  flex: 1 1 calc(100% - 40px); /* full width minus margin */
+  max-width: calc(100% - 40px); /* full width minus margin */
+  box-sizing: border-box;
+  transition: transform 0.2s ease-in-out;
+  text-align: center; /* Center the text */
+  color: #f5f5f5; /* Light text color for contrast */
+}
+
+.book-card img.book-cover {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.book-card h2 {
+  margin: 0 0 10px;
+  font-size: 1.5em;
+}
+
+.book-card p {
+  margin: 0;
+  font-size: 1em;
+}
+
+.book-card:hover {
+  transform: scale(1.05);
+}
+
+/* Pagination controls */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 10px 20px;
+  margin: 0 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.pagination button[disabled] {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.pagination span {
+  margin: 0 10px;
+}
+
+/* Responsive breakpoints */
+@media (min-width: 600px) {
+  .book-card {
+    flex: 1 1 calc(50% - 40px); /* two cards per row */
+    max-width: calc(50% - 40px);
+  }
+}
+
+@media (min-width: 900px) {
+  .book-card {
+    flex: 1 1 calc(33.33% - 40px); /* three cards per row */
+    max-width: calc(33.33% - 40px);
+  }
+}
+
+@media (min-width: 1200px) {
+  .book-card {
+    flex: 1 1 calc(25% - 40px); /* four cards per row */
+    max-width: calc(25% - 40px);
+  }
+}

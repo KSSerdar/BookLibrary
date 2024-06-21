@@ -1,0 +1,13 @@
+<nav class="navbar">
+    <div class="navbar-brand">
+      <a routerLink="/">BookStore</a>
+    </div>
+    <div class="navbar-links">
+      <a *ngIf="isAdmin"routerLink="/create-book">create book</a>
+      <a routerLink="/">Home</a>
+      <a routerLink="/books">Books</a>
+      <a routerLink="/authors">Authors</a>
+      <a *ngIf="!isLoggedIn" routerLink="/login">Login</a>
+      <a *ngIf="isLoggedIn" (click)="logout()">Logout</a>
+    </div>
+  </nav>

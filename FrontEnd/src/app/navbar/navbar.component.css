@@ -1,0 +1,37 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+    color: #f5f5f5;
+  }
+  
+  .navbar-brand a {
+    color: #f5f5f5;
+    text-decoration: none;
+    font-size: 1.5em;
+  }
+  
+  .navbar-links a {
+    color: #f5f5f5;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 600px) {
+    .navbar-links {
+      display: none;
+    }
+  }
+  
+  @media (min-width: 600px) {
+    .navbar-links {
+      display: flex;
+    }
+  }
+  
