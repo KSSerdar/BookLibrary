@@ -1,0 +1,163 @@
+[
+  {
+    "name": "HARRY POTTER AND THE PHILOSOPHER’S STONE",
+    "description": "Harry Potter ve Felsefe Taşı, J. K. Rowling tarafından yazılmış olan ve genç büyücü karakter Harry Potter'ın takdim edildiği Harry Potter serisindeki ilk romandır ",
+    "pictureUrl": "https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UF894,1000_QL80_.jpg",
+    "publishDate": "1997-06-27T00:00:00Z",
+    "authorid": "c4a7ec9e-2e2f-4567-529d-08dc8608722d"
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "description": "Harry Potter and the Chamber of Secrets is a fantasy novel written by British author J. K. Rowling and the second novel in the Harry Potter series. The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the",
+    "pictureUrl": "https://m.media-amazon.com/images/I/818umIdoruL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1998-07-02T00:00:00Z",
+    "authorid": "c4a7ec9e-2e2f-4567-529d-08dc8608722d"
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "description": "Harry Potter and the Prisoner of Azkaban is a fantasy novel written by British author J. K. Rowling and is the third in the Harry Potter series.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/81qP9He6tSL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1999-07-08T00:00:00Z",
+    "authorid": "c4a7ec9e-2e2f-4567-529d-08dc8608722d"
+  },
+  {
+    "name": "Harry Potter and the Goblet of Fire",
+    "description": "Harry Potter and the Goblet of Fire is a fantasy novel written by British author J. K. Rowling and the fourth novel in the Harry Potter series. It follows Harry Potter, a wizard in his fourth year at Hogwarts School of Witchcraft and Wizardry, and the mystery surrounding the entry of Harry's name into the Triwizard Tournament, in which he is forced to compete.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/81zeKRGCPpL._AC_UF894,1000_QL80_.jpg",
+    "publishDate": "2000-07-08T00:00:00Z",
+    "authorid": "c4a7ec9e-2e2f-4567-529d-08dc8608722d"
+  },
+  {
+    "name": "Harry Potter & The Order of The Phoenix",
+    "description": "Harry Potter and the Order of the Phoenix is a fantasy novel written by British author J. K. Rowling and the fifth novel in the Harry Potter series. It follows Harry Potter's struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic",
+    "pictureUrl": "https://m.media-amazon.com/images/I/81Budsu1XBL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "2003-06-21T00:00:00Z",
+    "authorid": "c4a7ec9e-2e2f-4567-529d-08dc8608722d"
+  },
+  /*
+
+
+
+
+*/
+  {
+    "name": "Nineteen Eighty-Four",
+    "description": "Nineteen Eighty-Four (also published as 1984) is a dystopian novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1949-06-08T00:00:00Z",
+    "authorid": "7f79f8ce-9832-4fc9-529e-08dc8608722d"
+  },
+  {
+    "name": "Politics and the English Language",
+    "description": "Politics and the English Language is an essay by George Orwell that criticised the ugly and inaccurate written English of his time and examined the connection between political orthodoxies and the debasement of language.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/61hSkJwr24L._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1946-04-08T00:00:00Z",
+    "authorid": "7f79f8ce-9832-4fc9-529e-08dc8608722d"
+  },
+  {
+    "name": "Animal Farm",
+    "description": "Animal Farm is a satirical allegorical novella, in the form of a beast fable, by George Orwell, first published in England on 17 August 1945. It tells the story of a group of anthropomorphic farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, the rebellion is betrayed, and under the dictatorship of a pig named Napoleon, the farm ends up in a state as bad as it was before.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/91LUbAcpACL._AC_UF894,1000_QL80_.jpg",
+    "publishDate": "1945-08-17T00:00:00Z",
+    "authorid": "7f79f8ce-9832-4fc9-529e-08dc8608722d"
+  },
+  {
+    "name": "Why I Write",
+    "description": "Why I Write  is an essay by George Orwell detailing his personal journey to becoming a writer. It was first published in the Summer 1946 edition of Gangrel.The editors of this magazine, J.B.Pick and Charles Neil, had asked a selection of writers to explain why they write.The essay offers a type of mini-autobiography in which he writes of having first completed poems and tried his hand at short-stories, and carried on a continuous story about himself in his head, before finally becoming a full-fledged writer. It goes on to set out some important motives for writing.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71Eagiu+wXL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1946-08-17T00:00:00Z",
+    "authorid": "7f79f8ce-9832-4fc9-529e-08dc8608722d"
+  },
+  {
+    "name": "A Hanging",
+    "description": "A Hanging (1931) is a short essay written by George Orwell, first published (under his real name) in August 1931 in the John Middleton Murry’s British literary magazine The Adelphi and then reprinted in 1946 in the British literary magazine The New Savoy. Set in Burma, where Orwell (under his real name of Eric Arthur Blair) had served in the British Imperial Police from 1922 to 1927, it describes the execution of a criminal.",
+    "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqu8n1JKKs9TiYjhq5LT7CY1x7ZBmZnzaHOw&s",
+    "publishDate": "1931-04-08T00:00:00Z",
+    "authorid": "7f79f8ce-9832-4fc9-529e-08dc8608722d"
+  },
+  /*
+
+
+
+
+
+  */
+  {
+    "name": "Mrs. Dalloway",
+    "description": "Mrs Dalloway is a novel by Virginia Woolf published on 14 May 1925.[1][2] It details a day in the life of Clarissa Dalloway, a fictional upper-class woman in post-First World War England. It is one of Woolf's best-known novels.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/91OZZN8uEOL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1925-05-14T00:00:00Z",
+    "authorid": "f32dad91-6000-469a-52a6-08dc8608722d"
+  },
+  {
+    "name": "A Room of One's Own",
+    "description": "A Room of One's Own is an extended essay by Virginia Woolf, first published in September 1929.[1] The work is based on two lectures Woolf delivered in October 1928 at Newnham College and Girton College, women's colleges at the University of Cambridge",
+    "pictureUrl": "https://m.media-amazon.com/images/I/81nYAOd3IXL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1929-09-14T00:00:00Z",
+    "authorid": "f32dad91-6000-469a-52a6-08dc8608722d"
+  },
+  {
+    "name": "To the Lighthouse",
+    "description": "To the Lighthouse is a 1927 novel by Virginia Woolf. The novel centres on the Ramsay family and their visits to the Isle of Skye in Scotland between 1910 and 1920.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/81jViJ-jPFL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1927-05-05T00:00:00Z",
+    "authorid": "f32dad91-6000-469a-52a6-08dc8608722d"
+  },
+  {
+    "name": "Orlando: A Biography",
+    "description": "Orlando: A Biography is a novel by Virginia Woolf, first published on 11 October 1928. Inspired by the tumultuous family history of the aristocratic poet and novelist Vita Sackville-West, Woolf's lover and close friend, it is arguably one of her most popular novels; Orlando is a history of English literature in satiric form. The book describes the adventures of a poet who changes sex from man to woman and lives for centuries, meeting the key figures of English literary history. Considered a feminist classic, the book has been written about extensively by scholars of women's writing and gender and transgender studies.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/715OPLmBUdL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1928-10-11T00:00:00Z",
+    "authorid": "f32dad91-6000-469a-52a6-08dc8608722d"
+  },
+  {
+    "name": "The Waves",
+    "description": "The Waves is a 1931 novel by English novelist Virginia Woolf. It is critically regarded as her most experimental work,[1] consisting of ambiguous and cryptic soliloquies spoken mainly by six characters: Bernard, Susan, Rhoda, Neville, Jinny and Louis.[2] Percival, a seventh character, appears in the soliloquies, though readers never hear him speak in his own voice.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71spQ1dxDrL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1931-10-08T00:00:00Z",
+    "authorid": "f32dad91-6000-469a-52a6-08dc8608722d"
+  },
+
+
+  /*
+
+
+
+  */
+  {
+    "name": "War and Peace",
+    "description": "War and Peace (Russian: Война и мир, romanized: Voyna i mir; pre-reform Russian: Война и миръ; [vɐjˈna i ˈmʲir]) is a literary work by Russian author Leo Tolstoy. Set during the Napoleonic Wars, the work mixes fictional narrative with chapters discussing history and philosophy. An early version was published serially beginning in 1865, after which the entire book was rewritten and published in 1869. It is regarded, with Anna Karenina, as Tolstoy's finest literary achievement and remains an internationally praised classic of world literature",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71wXZB-VtBL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1867-10-08T00:00:00Z",
+    "authorid": "63f5d7b6-7079-4352-52a5-08dc8608722d"
+  },
+  {
+    "name": "The Death of Ivan Ilych",
+    "description": " The Death of Ivan Ilyich (also Romanized Ilich, Ilych, Ilyitch; Russian: Смерть Ивана Ильича, romanized: Smert' Ivána Ilyicha), first published in 1886, is a novella by Leo Tolstoy, considered one of the masterpieces of his late fiction, written shortly after his religious conversion of the late 1870s.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71E4TIko5HL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+    "publishDate": "1886-10-08T00:00:00Z",
+    "authorid": "63f5d7b6-7079-4352-52a5-08dc8608722d"
+  },
+  {
+    "name": "Anna Karenina",
+    "description": " Anna Karenina (Russian: Анна Каренина, IPA: [ˈanːə kɐˈrʲenʲɪnə])[1] is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Widely considered to be the greatest work of literature ever written,[2] Tolstoy himself called it his first true novel",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71z-a9gKZ4L._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1873-10-08T00:00:00Z",
+    "authorid": "63f5d7b6-7079-4352-52a5-08dc8608722d"
+  },
+  {
+    "name": "The Resurrection",
+    "description": "Resurrection (pre-reform Russian: Воскресеніе; post-reform Russian: Воскресение, romanized: Voskreséniye, also translated as The Awakening), first published in 1899, was the last novel written by Leo Tolstoy.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71rs7U0GGkL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1889-10-08T00:00:00Z",
+    "authorid": "63f5d7b6-7079-4352-52a5-08dc8608722d"
+  },
+  {
+    "name": "The Three Questions",
+    "description": "The Three Questions is a 1903 short story by Russian author Leo Tolstoy as part of the collection What Men Live By, and Other Tales. The story takes the form of a parable, and it concerns a king who wants to find the answers to what he considers the three most important questions in life.",
+    "pictureUrl": "https://m.media-amazon.com/images/I/71ipCiTVjwL._AC_UF1000,1000_QL80_.jpg",
+    "publishDate": "1903-10-08T00:00:00Z",
+    "authorid": "63f5d7b6-7079-4352-52a5-08dc8608722d"
+  }
+
+]

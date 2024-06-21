@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "J.K. Rowling",
+    "Bio": "British author, best known for the Harry Potter series."
+  },
+  {
+    "Name": "George Orwell",
+    "Bio": "English novelist, essayist, journalist, and critic."
+  },
+  {
+    "Name": "Jane Austen",
+    "Bio": "English novelist known for her six major novels."
+  },
+  {
+    "Name": "Mark Twain",
+    "Bio": "American writer, humorist, entrepreneur, publisher, and lecturer."
+  },
+  {
+    "Name": "Ernest Hemingway",
+    "Bio": "American novelist, short story writer, and journalist."
+  },
+  {
+    "Name": "F. Scott Fitzgerald",
+    "Bio": "American novelist, known for The Great Gatsby."
+  },
+  {
+    "Name": "Agatha Christie",
+    "Bio": "English writer known for her 66 detective novels."
+  },
+  {
+    "Name": "Charles Dickens",
+    "Bio": "English writer and social critic."
+  },
+  {
+    "Name": "Leo Tolstoy",
+    "Bio": "Russian writer, regarded as one of the greatest authors of all time."
+  },
+  {
+    "Name": "Virginia Woolf",
+    "Bio": "English writer, considered one of the most important modernist authors."
+  }
+]

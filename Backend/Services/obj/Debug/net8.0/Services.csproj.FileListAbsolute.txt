@@ -1,0 +1,17 @@
+C:\Users\serda\source\repos\MyAPI\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\serda\source\repos\MyAPI\Services\bin\Debug\net8.0\Services.dll
+C:\Users\serda\source\repos\MyAPI\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\serda\source\repos\MyAPI\Services\bin\Debug\net8.0\Core.dll
+C:\Users\serda\source\repos\MyAPI\Services\bin\Debug\net8.0\DAL.dll
+C:\Users\serda\source\repos\MyAPI\Services\bin\Debug\net8.0\Core.pdb
+C:\Users\serda\source\repos\MyAPI\Services\bin\Debug\net8.0\DAL.pdb
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.dll
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\serda\source\repos\MyAPI\Services\obj\Debug\net8.0\ref\Services.dll
